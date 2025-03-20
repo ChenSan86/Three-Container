@@ -26,7 +26,7 @@
 
 ### 构建工具
 * [Three.js](https://Threejs.org/)
----
+
 ## 开始
 部署前阅读
 
@@ -42,7 +42,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose@latest"></script>
   ```
----
+
 ## 标签属性
 | 属性              | 类型    | 默认值       | 说明                       |
 |-------------------|---------|--------------|----------------------------|
@@ -56,7 +56,7 @@
 | camera-position   | String  | 自动计算     | 相机坐标（x,y,z或单数字距离）|
 | gesture-control   | Boolean | false        | 集成手势控制函数实现交互新体验|
 
----
+
 
 ## 许可证
 
@@ -70,4 +70,7 @@
 * [Ovilia/ThreeExample.js](https://github.com/Ovilia/ThreeExample.js)
 * [three.js examples](https://threejs.org/examples/)
 
+## 开发日志
+
+*[3d-container 标签的模拟实现-开发日志](https://blog.csdn.net/2401_87362551/article/details/146158267?spm=1001.2014.3001.5501)
 
